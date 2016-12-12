@@ -1,6 +1,6 @@
 # php-HienNhan
 1.Clone to your PC
-  "git clone https://github.com/silverhawk2306/php-HienNhan hiennhan" \n
+  "git clone https://github.com/silverhawk2306/php-HienNhan hiennhan"
 2. Open terminal and cd to project "hiennhan"
 3. cd to database
   cd backend/database
