@@ -11,4 +11,10 @@
   "php SeekingLevels.php"
   "php SeekingUser.php"
   "php SeekingCategories.php"
+7. Front end
+  "localhost/hiennhan/frontend/controllers/HomeController.php?func_name=index"
+8. Backend
+  "localhost/hiennhan/backend/controllers/CategoriesController.php?func_name=index"
+  username:admin
+  password:admin
 Thank you for your attention. Have a good day!
