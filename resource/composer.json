@@ -1,0 +1,12 @@
+{
+    "name": "silverhawk/mailler",
+    "authors": [
+        {
+            "name": "SilverHawk2306",
+            "email": "silverhawk2306@gmail.com"
+        }
+    ],
+    "require": {
+	"phpmailer/phpmailer": "~5.2"
+    }
+}
