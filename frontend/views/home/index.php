@@ -16,8 +16,7 @@ include_once '../views/layout/head.php'; ?>
             <h4>Welcome To Varsity</h4>
             <span></span>
             <h2>We Will Help You To Learn</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor amet error eius reiciendis eum sint unde
-                eveniet deserunt est debitis corporis temporibus recusandae accusamus.</p>
+            <p>với nguồn tài nguyên phong phú chúng tôi sẽ giúp bạn học tập tốt và hiệu quả</p>
             <a href="#" class="mu-read-more-btn">Read More</a>
         </div>
     </div>
