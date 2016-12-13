@@ -6,7 +6,10 @@
  * Date: 23/11/2016
  * Time: 20:48
  */
-require_once "Config.php";
+include_once '/Config.php';
+
+echo SERVER_NAME;
+
 class DBConnection{
     private $servername = SERVER_NAME;
     private $username = USER_NAME;

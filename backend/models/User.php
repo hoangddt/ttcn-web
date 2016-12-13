@@ -1,4 +1,5 @@
 <?php
+
 require_once '../database/DBConnection.php';
 
 class User

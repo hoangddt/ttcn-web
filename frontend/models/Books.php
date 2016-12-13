@@ -24,7 +24,7 @@ class Books
     public function details($id)
     {
         $query = $this->conn->query("select books.id id, books.name name, books.author author, books.description description, 
-        categories.name category, books.created_at created_at, books.amount amount, books.amount_rent amount_rent, books.cost cost
+        categories.name category, books.created_at created_at, books.amount amount, books.cost cost
         , books.updated_at updated_at, books.category_id category_id, books.details details 
         from $this->table books, $this->table_ref categories where books.category_id = categories.id AND books.id=$id");
         $result = mysqli_fetch_array($query, MYSQLI_ASSOC);

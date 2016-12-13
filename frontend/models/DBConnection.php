@@ -8,6 +8,7 @@
  */
 
 require_once '../../backend/database/Config.php';
+
 class DBConnection{
     private $servername = SERVER_NAME;
     private $username = USER_NAME;
