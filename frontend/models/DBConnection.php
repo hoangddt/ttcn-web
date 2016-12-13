@@ -9,10 +9,10 @@
 
 require_once '../../backend/database/Config.php';
 class DBConnection{
-    private $servername = "localhost";
-    private $username = "root";
-    private $password = "root";
-    private $database = "hiennhantest";
+    private $servername = SERVER_NAME;
+    private $username = USER_NAME;
+    private $password = PASSWORD;
+    private $database = DATABASE;
 
     public function getConnection() {
         $conn = mysqli_connect($this->servername, $this->username, $this->password, $this->database);
