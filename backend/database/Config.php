@@ -7,7 +7,7 @@
  */
 define("SERVER_NAME", "localhost");
 define("USER_NAME", "root");
-define("PASSWORD", "root");
+define("PASSWORD", "1010");
 define("DATABASE", "hiennhantest");
 define("MAIL-USERNAME", "");
 define("MAIL-PASSWORD", "");

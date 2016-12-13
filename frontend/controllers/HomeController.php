@@ -10,6 +10,7 @@ require_once '../models/Categories.php';
 require_once '../models/Books.php';
 require_once '../Bean/View.php';
 
+# echo "Hi there";
 
 if (isset($_GET['func_name'])) {
     $homeController = new HomeController();
